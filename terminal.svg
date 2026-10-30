@@ -139,6 +139,6 @@
 <rect width="560" height="765" fill="url(#vignette)"/>
 </g>
 <rect x="4.5" y="4.5" width="551" height="756" rx="8" fill="none" stroke="#6e7681" stroke-width="1"/>
-<rect x="175.6" y="0" width="208.8" height="10" fill="#0d1117"/>
-<text x="280.0" y="8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#6e7681" xml:space="preserve"> guest@christenjacquottet: ~ </text>
+<rect x="164.8" y="0" width="230.4" height="10" fill="#0d1117"/>
+<text x="280.0" y="8" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="9" fill="#6e7681" xml:space="preserve"> christen@christenjacquottet: ~ </text>
 </svg>

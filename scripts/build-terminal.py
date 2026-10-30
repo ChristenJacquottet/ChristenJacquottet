@@ -57,7 +57,7 @@ LINES = [
     [("accent", "$ "), ("cursor", "")],
 ]
 
-TITLE = " christen@christenjacquottet: ~ "
+TITLE = " christen@imagination: ~/implementation "
 WIDTH = 560
 ART_TOP = 18  # the art's own y values start at 10
 TEXT_X = 20
